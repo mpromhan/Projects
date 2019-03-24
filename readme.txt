@@ -1,0 +1,1 @@
+THe following scripts were created for the GMU DAEN capstone class.  THe goal of the project is to identify potentially illicit massage parlors on yelp through machine learning.  The models are trained on a proprietary dataset of of illicit massage parlors scrapped from an illicit massage parlor forum.
